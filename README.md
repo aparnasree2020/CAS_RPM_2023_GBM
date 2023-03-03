@@ -28,9 +28,22 @@ The screen should look like this.
 
 
 These are the other notebooks you can use as a starting point for GBM workshop
+### GBM Session part 1 - Compare GLM, GBM, XGboost 
 
+https://github.com/aparnasree2020/CAS_RPM_2023_GBM/blob/main/Run_Models_compare_code.ipynb
 
-## Challenge/Questions to the crowd
+### GBM Session part 2 - Compare XGBoost with various configurations ( default params, manual params, CV params)
+
+https://github.com/aparnasree2020/CAS_RPM_2023_GBM/blob/main/Run_XGboost_Models_compare_code.ipynb
+
+### GBM Session part 3 - Compare XGBoost, GLM with important features and ? 
+
+### Datacleaning code
+If you are interested to know how the data was cleaned you can browse the following notebook 
+
+https://github.com/aparnasree2020/CAS_RPM_2023_GBM/blob/main/Run_datacleaning_code.ipynb
+
+## Challenge/Questions to the participants
 * What metric will you choose to evaluate a classification model ? 
-* 
-* Can you find the best hyperparameter for creating the best models
+* How will you define the "best" model ? 
+* Can you find the best hyperparameter for creating the best model ?

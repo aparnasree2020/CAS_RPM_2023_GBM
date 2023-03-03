@@ -5,7 +5,9 @@ Colaboratory, or “Colab” for short, is a product from Google Research. Colab
 1. Open your default browser and login to your google account. 
 2.	Google Chrome is the browser of choice for this session since it plays well with Google Colab. 
 3.	In the same browser, open the following link. 
+
 https://github.com/aparnasree2020/sampledata_casws/blob/main/Run_Models_compare_code.ipynb 
+
 The screen should look like this. 
 
 ![Go to Colab link](/readme_images/open_colab.jpg )

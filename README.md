@@ -21,8 +21,9 @@ The screen should look like this.
 
 6. Click on "Copy to Google drive" to save a copy of any notebook into your google drive. You can refer to this notebook for future reference. 
 
-![Colab firstlook](/readme_images/colab_copytogoogledrive_1.JPG)
-![Colab firstlook](/readme_images/colab_copytogoogledrive_2.JPG)
+![Copy to google drive ](/readme_images/colab_copytogoogledrive_1.JPG)
+
+![Files in Google drive](/readme_images/colab_copytogoogledrive_2.JPG)
 
 7. If you are opening the google colab for the first time, you can run the code by going to Runtime and click on Runall
 

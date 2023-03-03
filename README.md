@@ -23,6 +23,7 @@ The screen should look like this.
 ![Runall](/readme_images/Runall.jpg)
 
 7. Each cell is supposed to be run sequentially, but you can run them out of order too during testing. 
+When you hover over a cell, you can see that a "Play" button show up. Click on that play button to run that particular cell
 
 ![Run one cell](/readme_images/run_one_cell.JPG ) 
 

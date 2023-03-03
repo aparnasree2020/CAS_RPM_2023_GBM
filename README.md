@@ -20,6 +20,7 @@ The screen should look like this.
 
 
 6. Click on "Copy to Google drive" to save a copy of any notebook into your google drive. You can refer to this notebook for future reference. 
+
 ![Colab firstlook](/readme_images/colab_copytogoogledrive_1.JPG)
 ![Colab firstlook](/readme_images/colab_copytogoogledrive_2.JPG)
 
@@ -42,7 +43,7 @@ https://github.com/aparnasree2020/CAS_RPM_2023_GBM/blob/main/Run_Models_compare_
 
 https://github.com/aparnasree2020/CAS_RPM_2023_GBM/blob/main/Run_XGboost_Models_compare_code.ipynb
 
-### GBM Session part 3 - Compare XGBoost, GLM with important features and ? 
+### GBM Session part 3 - Compare XGBoost best model, GLM with important features 
 
 ### Datacleaning code
 If you are interested to know how the data was cleaned you can browse the following notebook 

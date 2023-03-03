@@ -18,11 +18,16 @@ The screen should look like this.
  
 ![Colab firstlook](/readme_images/colab_firstlook.jpg)
 
-6. If you are opening the google colab for the first time, you can run the code by going to Runtime and click on Runall
+
+6. Click on "Copy to Google drive" to save a copy of any notebook into your google drive. You can refer to this notebook for future reference. 
+![Colab firstlook](/readme_images/colab_copytogoogledrive_1.JPG)
+![Colab firstlook](/readme_images/colab_copytogoogledrive_2.JPG)
+
+7. If you are opening the google colab for the first time, you can run the code by going to Runtime and click on Runall
 
 ![Runall](/readme_images/Runall.jpg)
 
-7. Each cell is supposed to be run sequentially, but you can run them out of order too during testing. 
+8. Each cell is supposed to be run sequentially, but you can run them out of order too during testing. 
 When you hover over a cell, you can see that a "Play" button show up. Click on that play button to run that particular cell
 
 ![Run one cell](/readme_images/run_one_cell.JPG ) 

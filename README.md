@@ -13,12 +13,15 @@ The screen should look like this.
 4. Click on “Open in Colab” ( marked in yellow)
       -> This opens the colab google session which is were we will be running the R notebook. 
 5. You should now be able to see a google colab preview 
+ 
 ![Colab firstlook](/readme_images/colab_firstlook.jpg)
 
 6. If you are opening the google colab for the first time, you can run the code by going to Runtime and click on Runall
+
 ![Runall](/readme_images/Runall.jpg)
 
 7. Each cell is supposed to be run sequentially, but you can run them out of order too during testing. 
+
 ![Run one cell](/readme_images/run_one_cell.JPG ) 
 
 

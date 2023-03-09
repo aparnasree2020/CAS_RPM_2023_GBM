@@ -2,9 +2,11 @@ Colaboratory, or “Colab” for short, is a product from Google Research. Colab
 
 # Instructions to run Colab for CAS RPM 2023 GBM session
 
+The idea is to make sure that the participants can access github and run a google colab session. Please follow the instructions below and if you are having trouble please reach out to us 
+
 1. Open your default browser and login to your google account. 
-2.	Google Chrome is the browser of choice for this session since it plays well with Google Colab. 
-3.	In the same browser, open the following link. 
+2. Google Chrome is the browser of choice for this session since it plays well with Google Colab. 
+3. In the same browser, open the following link. 
 
 https://github.com/aparnasree2020/CAS_RPM_2023_GBM/blob/main/RPM_Run_Models_compare_code.ipynb
 

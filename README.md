@@ -6,7 +6,7 @@ Colaboratory, or “Colab” for short, is a product from Google Research. Colab
 2.	Google Chrome is the browser of choice for this session since it plays well with Google Colab. 
 3.	In the same browser, open the following link. 
 
-https://github.com/aparnasree2020/sampledata_casws/blob/main/Run_Models_compare_code.ipynb 
+https://github.com/aparnasree2020/CAS_RPM_2023_GBM/blob/main/RPM_Run_Models_compare_code.ipynb
 
 The screen should look like this. 
 
@@ -36,20 +36,17 @@ When you hover over a cell, you can see that a "Play" button show up. Click on t
 
 
 These are the other notebooks you can use as a starting point for GBM workshop
-### GBM Session part 1 - Compare GLM, GBM, XGboost 
+### GBM Session part 1 - Intro to GBM 
 
-https://github.com/aparnasree2020/CAS_RPM_2023_GBM/blob/main/Run_Models_compare_code.ipynb
+https://github.com/aparnasree2020/CAS_RPM_2023_GBM/blob/main/GCW_playcode.ipynb
 
-### GBM Session part 2 - Compare XGBoost with various configurations ( default params, manual params, CV params)
+### GBM Session part 2 - XGboost in a classification problem
 
-https://github.com/aparnasree2020/CAS_RPM_2023_GBM/blob/main/Run_XGboost_Models_compare_code.ipynb
+https://github.com/aparnasree2020/CAS_RPM_2023_GBM/blob/main/RPM_Run_Models_compare_code.ipynb
 
-### GBM Session part 3 - Compare XGBoost best model, GLM with important features 
+### GBM Session part 3 - XGboost in a regression problem
 
-### Datacleaning code
-If you are interested to know how the data was cleaned you can browse the following notebook 
-
-https://github.com/aparnasree2020/CAS_RPM_2023_GBM/blob/main/Run_datacleaning_code.ipynb
+https://github.com/RuthlessActuary2023/CAS_RPM_2023/blob/main/2023_CAS_RPM_XGB_Reg.ipynb
 
 ## Challenge/Questions to the participants
 * What metric will you choose to evaluate a classification model ? 

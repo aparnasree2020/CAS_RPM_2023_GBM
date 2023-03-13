@@ -49,7 +49,7 @@ https://github.com/aparnasree2020/CAS_RPM_2023_GBM/blob/main/GCW_playcode.ipynb
 
 ### GBM Session part 2 - XGboost in a classification problem
 
-https://github.com/aparnasree2020/CAS_RPM_2023_GBM/blob/main/RPM_Run_Models_compare_code.ipynb
+https://github.com/aparnasree2020/CAS_RPM_2023_GBM/blob/main/RPM_XGBoost_Models_AXS_1M.ipynb
 
 ### GBM Session part 3 - XGboost in a regression problem
 
